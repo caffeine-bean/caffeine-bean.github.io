@@ -2,7 +2,7 @@
 
 A sleek and modern image gallery showcasing a collection of futuristic lingerie designs with a cutting-edge UI.
 
-![Futuristic Lingerie Gallery](./screenshot.png)
+![Futuristic Lingerie Gallery]("https://caffeine-bean.github.io")
 
 ## Features
 
